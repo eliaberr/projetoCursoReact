@@ -6,7 +6,7 @@ function NemProject(){
         <div className={styles.newPoject_Container}>
             <h1>Criar Projeto</h1>
             <p>Crie Seu Projeto Para Depois Adicionar os Serviços</p>
-            <Projectform/>
+            <Projectform btnText="Criar Projeto"/>
         </div>
     )
 }
