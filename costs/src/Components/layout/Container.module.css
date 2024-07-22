@@ -2,7 +2,7 @@
     width: 120px;
     display: flex;
     justify-content: space-between;
-    margin:0 auto;
+    margin:1px  ;
     flex-wrap: wrap;
 }
 
